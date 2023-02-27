@@ -1,2 +1,2 @@
-# STRUTTURE DATI in C++ per esame di ASD
+# STRUTTURE DATI in C++
 Strutture dati create da me per l'esame di Algoritmi e strutture dati (UniBa)
