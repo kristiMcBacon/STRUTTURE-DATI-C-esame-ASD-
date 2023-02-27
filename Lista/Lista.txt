@@ -1,0 +1,4 @@
+Lista -> List_vectro: Lista con Vettore Dinamico
+	   Linked_list: Lista con Nodi (prev/next/value)
+
+Lista Ordinata -> Order_list: Lista Ordinata con Nodi (prev/next/value)
