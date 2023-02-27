@@ -1,0 +1,5 @@
+/ leggipila=top / fuoripila=pop / inpila=push /
+
+Pila Vettore -> Pila_vt: Pila con vettore Dinamico (da testa si elimina/preleva)
+Pila Puntatori -> Pila_pt: Pila con Cella (suc/elem)
+Pila Lista -> Pila: Pila realizzata con Lista (Linked_list) (costruttore di copia classe Padre)

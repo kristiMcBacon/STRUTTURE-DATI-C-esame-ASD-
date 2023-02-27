@@ -1,0 +1,5 @@
+/ leggicoda=top / fuoricoda=decoda / incoda=encoda /
+
+Coda Vett Circolare -> Coda: Con vettore circolare (usando %dim per la posizione)
+Coda Puntatori -> Coda: Coda con Cella (suc/elem) (si rimuove in testa e si inserisce in fondo)
+Coda Lista -> Coda: Coda realizzata con Lista (Linked_list) (costruttore di copia e = classe Padre)
