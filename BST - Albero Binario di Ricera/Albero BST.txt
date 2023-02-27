@@ -1,0 +1,6 @@
+No Sovraccarico =, ==, e Costruttore di copia !!!
+
+BST - Albero Binario di Ricerca -> pnBST: Albero BST con Nodi (binstreenode -> Chiave/Etichetta/Fsx/Fdx/Padre), si inserisce la radice 
+							e poi i figli con la chiave piu piccola vanno a sinistra quelli con la chiave piu grande vanno 
+							a destra.
+					

@@ -1,0 +1,4 @@
+BinAlbero Con Celle -> BinAlbero: Albero Binario con Celle (Fsx/Fdx/Padre/etichetta), No Sovraccarico ==.
+BinAlbero Con Cursori -> BinAlbero: Albero Binario con Cursori, realizzato con Vettore Dinamico di struct: Cella 
+					      (Fsx/Fdx/Padre/etichetta), inizio=Radice, libera=pos libera dove inserire nuovo 
+						figlio, No Sovraccarico =, ==, e Costruttore di copia.

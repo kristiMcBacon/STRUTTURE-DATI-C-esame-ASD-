@@ -1,0 +1,8 @@
+No Sovraccarico =, ==, e Costruttore di copia !!!
+
+Albero N-ario Con Celle -> Albero: Albero N-ario con Celle (FratelloSucc/PrimoFiglio/Padre/etichetta).
+
+-Non ha insSottoAlbero() e insPrimoSottoAlbero() !!!
+Albero N-ario Con Lista -> Albero: Albero N-ario con Vettore di struct: Cella con used (indica se quella cella è usata),
+					     'e' (etichetta) e Lista (Vector_list) (che contiene la posizione nel vett. dei figli),
+					
