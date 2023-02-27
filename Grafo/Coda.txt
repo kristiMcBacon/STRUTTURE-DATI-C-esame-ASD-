@@ -1,0 +1,16 @@
+Grafo Lista di Adiac.(orientato) -> Grafo: Grafo con Vettore statico di struct: CellaGrafo (una per ogni nodo) che contiene etichetta, esiste 
+							 e Lista (Linked_list) di tipo arco che contine il peso dell'arco e la pos (all'interno nel Vett. Statico)
+							 del nodo dove entra l'arco.
+Grafo Mat. di Adiac.(orientato) -> matgraph: Grafo con Vettore Dinamico di tipo nodeInfo che contine l'etichetta, empty (se è vuoto) e Vettore
+								 Dinamico di tipo ArchInfo che contine il peso e empty (se è vuoto), in base alla pos della lista 
+								 dove viene inserito l'arco si identifica il nodo entrante
+
+				    	    [1] [2] [3]
+					[1] [p] [p] [p] 	<- Lista archi (ArchInfo) nodo 1
+					[2] [p] [p] [p] 	<- Lista archi (ArchInfo) nodo 2
+					[3] [p] [p] [p] 	<- Lista archi (ArchInfo) nodo 3
+		     vettore nodi ^^^
+
+
+Grafo Mat. di Adiac.(non orientato) -> matgraph: uguale solo che quando viene inserito/cancellato un arco l'operazione viene effettuata per 
+								 entrambi i nodi in modo che sia presente in entrambi i sensi

@@ -1,0 +1,2 @@
+Insieme Lista -> Insieme: Insieme realizzato con Lista (Linked_list) (sovraccarico = classe Padre)
+Insieme Lista Ordinata -> Insieme: Insieme realizzato con Lista Ordinata (Order_list) (sovraccarico = classe Padre)

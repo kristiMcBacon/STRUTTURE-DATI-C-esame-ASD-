@@ -1,0 +1,12 @@
+NON HANNO COSTRUTTORE DI COPIA, "=" E "==" !!!
+
+Dizionario (funzione hash esterna) -> Dizionario: 1) Vettore Dinamico ogni posizione punta a una Lista (Linked_list) di 
+								  tipo Coppia (chiave/valore), ogni lista contiene le Coppie con stessa chiave
+                                                  2) Variabile "hash" di tipo Hash che contiene la funzione che trasforma la chiave (solo di tipo 
+								  String) in un intero che è la posizione nel vettore che contiene la coppia
+
+
+Dizionario (funzione hash interna) -> Dizionario: 1) Vettore Dinamico ogni posizione punta a una Lista (Linked_list) di 
+								  tipo Coppia (chiave/valore), ogni lista contiene le Coppie con stessa chiave
+                                                  2) Funzione "hash" che trasforma la chiave (solo di tipo String) in 
+								  un intero che è la posizione nel vettore che contiene la coppia
